@@ -1,1 +1,4 @@
-kaizen
+kaizen/
+__pycache__/
+*.pyc
+.env
