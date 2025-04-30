@@ -2,6 +2,10 @@
 
 Este repositório contém um projeto de dashboard interativo desenvolvido com [Streamlit](https://streamlit.io/).
 
+<p align="center">
+    <img src="https://res.cloudinary.com/dof97idbn/image/upload/v1746051658/dashboardstreamlit.jpg" alt="Dashboard Streamlit">
+</p>
+
 ## Funcionalidades
 
 - Visualização de dados interativa.
