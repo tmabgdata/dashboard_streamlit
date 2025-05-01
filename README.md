@@ -5,7 +5,7 @@ Este repositório contém um projeto de dashboard interativo desenvolvido com [S
 Você pode acessar o dashboard online [aqui](https://tma-salesdashboard.streamlit.app/).
 
 <p align="center">
-    <img src="https://res.cloudinary.com/dof97idbn/image/upload/v1746051658/dashboardstreamlit.jpg" alt="Dashboard Streamlit">
+    <img src="https://res.cloudinary.com/dof97idbn/image/upload/v1746118295/streamlitdashboard.gif" alt="Dashboard Streamlit">
 </p>
 
 ## Funcionalidades
